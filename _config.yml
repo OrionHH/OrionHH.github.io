@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-cn"
-title                    : "韩 锦/Han Jin"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "韩 锦"
 description              : &description "Researcher & Engineer"
