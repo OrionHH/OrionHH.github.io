@@ -1,16 +1,15 @@
 ---
 permalink: /
-title: # "Homepage"
+title: "个人简介"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# 个人简介
 博士，副高级，主要研究方向脑-机接口、神经电信号分析与处理、深度学习。
 作为第一完成人，**(1)** 发展了多维度脑信息特征编解码技术，在国际学术期刊上首次报道 108指令全键盘的脑-机操控系统，首次实现了脑机接口指令数量和系统信息传输速率的“双百”突破；**(2)** 提出了新型混合时-频分多址的脑机编解码方法，开发216指令高速脑-机系统，创造了迄今脑-机接口最大操控指令集的世界纪录（截止至2024年）；**(3)** 开展了环境弱地磁场对大脑神经响应的调制研究，首次证明人类大脑可分辨微弱的地磁强度变化，为脑机接口技术提供了新的调制手段。  
-具体工作请见<font color=yellow size=3>[My Works]</font>。
+具体工作请见<font color=red size=3>[My Works]</font>。
 
 ---
 
@@ -32,6 +31,7 @@ redirect_from:
 15. 刘邈, 林超, **韩锦**, 肖晓琳, 许敏鹏, 明东. 基于P300特征的脑-机接口解码算法研究综述[J]. 信号处理, 2023, 39(8): 1367-1385.
 16. Xiao Xiaolin, Wen Shengfu., **Han Jin**, Yang Man, Yin Erwei, Xu Minpeng*, Ming Dong. A BCI Speller with 120 Commands Encoded by Hybrid P300 and SSVEP Features[C]//In International Workshop on Human Brain and Artificial Intelligence, 2022: 220-228. Singapore: Springer Nature Singapore.
 17. Li Wenxi, Liu Miao, **Han Jin**, and An Xingwei. Research on High-Instruction-Set Visual Brain-Computer Interface Based on Eye-Tracking Monitoring [C]//In Proceedings of the 2023 10th International Conference on Biomedical and Bioinformatics Engineering, 2023: 118-124.
+
 ---
 
 # 科技奖励及获奖情况
@@ -44,6 +44,7 @@ redirect_from:
 7. 2019年，项目“脑控全键盘字符拼写系统”**获2019中国智慧健康医疗创新成果**；
 8. 2018年，康复工程学术大会暨国际康复工程高峰论坛，优秀论文奖；
 9. 2017年，天津大学校三好学生。
+
 ---
 
 # 主持或参与项目情况
@@ -53,7 +54,9 @@ redirect_from:
 4. 国家自然科学基金面上项目，脑-机接口中背景脑电演进规律建模与极微弱脑电特征解码研究，参与；
 5. 企事业委托横向项目，弱磁场对RSVP诱发脑电的影响研究，参与。
 
+---
+
 # 专利情况
 1.	明东，**韩锦**，许敏鹏，肖晓琳，张力新，何峰. 基于P300-SSVEP的大指令集脑-机接口方法，国家发明专利（专利号：ZL201710794217.8）。
 2.	明东，**韩锦**，许敏鹏，刘邈，戴廷飞. 基于视图编解码的脑控机械臂系统和控制方法，国家发明专利（专利号：ZL202010864042.5）。
-3.	李雨龙，刘邈，**韩锦**，周晓宇，董傅文，许敏鹏，明东. 一种融合基于摄像头式视线跟踪技术的脑机接口系统，国家发明专利（专利号：202310061941.5）。
+3.	李雨龙，刘邈，**韩锦**，周晓宇，董傅文，许敏鹏，明东. 一种融合基于摄像头式视线跟踪技术的脑机接口系统，国家发明专利（专利号：ZL202310061941.5）。

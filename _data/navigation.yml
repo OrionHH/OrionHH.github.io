@@ -2,15 +2,6 @@
 main:
   - title: "My works"
     url: /publications/
-
-  - title: # "Talks"
-    url: # /talks/    
-
-  - title: # "Teaching"
-    url: # /teaching/    
-    
-  - title: # "Portfolio"
-    url: # /portfolio/
         
   - title: "Blogs"
     url: /year-archive/
