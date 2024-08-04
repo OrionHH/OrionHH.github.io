@@ -74,4 +74,4 @@ redirect_from:
 3.	李雨龙，刘邈，**韩锦**，周晓宇，董傅文，许敏鹏，明东. 一种融合基于摄像头式视线跟踪技术的脑机接口系统，国家发明专利（专利号：ZL202310061941.5）。
 
 
-[google-site-verification: google3868a9a25d0e2c02.html](google3868a9a25d0e2c02.html)
+[google-site-verification: google3868a9a25d0e2c02.html](../google3868a9a25d0e2c02.html)
