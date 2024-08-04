@@ -9,6 +9,9 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+
+主要研究方向脑-机接口、神经电信号分析与处理、深度学习。此栏主要记录所做工作，方便后续梳理。
+
 ---
 
 # 博士学位论文
@@ -22,7 +25,10 @@ author_profile: true
 > <p style="text-indent:2em"></p>综上，本文在光刺激调制方面，设计新型多址编码调制范式，通过混合多维信息增强脑电特征，先后将BCI指令数量扩增至百量级和二百量级，搭建了在线BCI开源平台，实现了脑控机械臂的汉字书写应用。在磁刺激调制方面，发现环境弱磁场可作为一种新型神经调制手段，显著提升v-BCI系统分类识别效果。本文相关工作为脑电特征调制研究提供了新方法和新思路，为开发适用于多场景的高性能BCI系统提供了平台和技术支撑。</font>
 
 > <font size="2"> 关键词：脑-机接口；脑电；特征调制；特征增强；混合编码；弱磁场调制；大指令集</font>
-> 
+
+
+
+
 
 {% include base_path %}
 
